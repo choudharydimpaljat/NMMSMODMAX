@@ -1367,9 +1367,9 @@
   {
     "device_id": "0f25678ecc31a2ed",
     "key": "54kdiruu",
-    "expirydate": "27-12-2025",
-    "Allowoffline": false,
-    "user": "csc"
+    "expirydate": "16-01-2026",
+    "user": "csc",
+    "Allowoffline": false
   },
   {
     "device_id": "b2ab3bfc4087628c",
