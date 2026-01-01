@@ -2508,9 +2508,9 @@
   {
     "device_id": "bc5938b398148f6e",
     "key": "7h6yh000",
-    "expirydate": "01-01-2026",
-    "Allowoffline": false,
-    "user": "mr singh"
+    "expirydate": "13-01-2026",
+    "user": "mr singh",
+    "Allowoffline": false
   },
   {
     "device_id": "f35e3629d340ec68",
