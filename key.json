@@ -1787,9 +1787,9 @@
   {
     "device_id": "f8737cdf48936f61",
     "key": "540101019nnb",
-    "expirydate": "01-01-2026",
-    "Allowoffline": false,
-    "user": "Rishabh jain"
+    "expirydate": "03-01-2026",
+    "user": "Rishabh jain",
+    "Allowoffline": false
   },
   {
     "device_id": "932bfbb907306548",
