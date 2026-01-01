@@ -1864,9 +1864,9 @@
   {
     "device_id": "c89bc49aefc04970",
     "key": "843228139",
-    "expirydate": "01-01-2026",
-    "Allowoffline": false,
-    "user": "satish"
+    "expirydate": "16-01-2026",
+    "user": "satish",
+    "Allowoffline": false
   },
   {
     "device_id": "8a380658e0e32f1a",
