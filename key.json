@@ -46,7 +46,7 @@
     "key": "HHUS KOO77766",
     "expirydate": "17-01-2026",
     "user": "Gj",
-    "Allowoffline": false
+    "Allowoffline": true
   },
   {
     "device_id": "f4c8ec54977eb4f1",
