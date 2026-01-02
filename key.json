@@ -2249,9 +2249,9 @@
   {
     "device_id": "22f00f761c48d380",
     "key": "54don9c42fce",
-    "expirydate": "01-01-2026",
-    "Allowoffline": false,
-    "user": "sp"
+    "expirydate": "01-02-2026",
+    "user": "sp",
+    "Allowoffline": false
   },
   {
     "device_id": "bb61f7aa538589c9",
