@@ -555,9 +555,9 @@
   {
     "device_id": "6d44a596a93100e3",
     "key": "00e488ggt6",
-    "expirydate": "11-01-226",
-    "Allowoffline": false,
-    "user": "vivek"
+    "expirydate": "13-01-2026",
+    "user": "vivek",
+    "Allowoffline": false
   },
   {
     "device_id": "352fcf23ce70532b",
