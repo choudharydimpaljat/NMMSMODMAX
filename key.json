@@ -877,9 +877,9 @@
   {
     "device_id": "18f278dd81eb4881",
     "key": "8ney66he",
-    "expirydate": "03-01-2026",
-    "Allowoffline": false,
-    "user": "amit kar"
+    "expirydate": "10-01-2026",
+    "user": "amit kar",
+    "Allowoffline": false
   },
   {
     "device_id": "03cb376741b87eac",
