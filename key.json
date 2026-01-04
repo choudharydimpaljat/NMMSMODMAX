@@ -2983,10 +2983,10 @@
   },
   {
     "device_id": "63b8977677250d96",
-    "key": "opjat ",
-    "expirydate": "03-11-2035",
-    "Allowoffline": false,
-    "user": "op"
+    "key": "opjat",
+    "expirydate": "03-02-2026",
+    "user": "op",
+    "Allowoffline": false
   },
   {
     "device_id": "f723da25bb5429c0",
