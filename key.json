@@ -464,9 +464,9 @@
   {
     "device_id": "a25839781fd2beb5",
     "key": "te5552jj",
-    "expirydate": "05-01-2026",
-    "Allowoffline": false,
-    "user": "amit"
+    "expirydate": "11-01-2026",
+    "user": "amit",
+    "Allowoffline": false
   },
   {
     "device_id": "9dbae67700a02db9",
