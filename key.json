@@ -1836,9 +1836,9 @@
   {
     "device_id": "95cd38944cfbd4fd",
     "key": "54d9cmhece",
-    "expirydate": "17-12-2025",
-    "Allowoffline": false,
-    "user": "mahendra Singh soda"
+    "expirydate": "21-01-2026",
+    "user": "mahendra Singh soda",
+    "Allowoffline": true
   },
   {
     "device_id": "c5b7b80e6323f471",
