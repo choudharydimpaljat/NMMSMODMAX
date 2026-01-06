@@ -1824,7 +1824,7 @@
     "key": "01qlzmncbvg",
     "expirydate": "16-01-2026",
     "user": "Khursheed khan",
-    "Allowoffline": false
+    "Allowoffline": true
   },
   {
     "device_id": "39a3052dc938aa51",
