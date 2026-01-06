@@ -658,6 +658,13 @@
     "user": "rahul meena"
   },
   {
+    "device_id": "6e786f05db2059ee",
+    "key": "b5f339oj86ed",
+    "expirydate": "20-01-2026",
+    "user": "Sumer Singh",
+    "Allowoffline": false
+  },
+  {
     "device_id": "2c5ce20a960d1a1a",
     "key": "Aar6g94v",
     "expirydate": "17-01-2026",
@@ -2119,13 +2126,6 @@
     "expirydate": "19-12-2025",
     "Allowoffline": false,
     "user": "Sumer singh"
-  },
-  {
-    "device_id": "6e786f05db2059ee",
-    "key": "b5f339oj86ed",
-    "expirydate": "30-11-2025",
-    "Allowoffline": false,
-    "user": "Sumer Singh"
   },
   {
     "device_id": "4db4838f4bf6b3eb",
