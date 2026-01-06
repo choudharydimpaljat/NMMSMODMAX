@@ -1549,9 +1549,9 @@
   {
     "device_id": "1357b5a07ce3cf54",
     "key": "8nt679h6r3",
-    "expirydate": "06-01-2026",
-    "Allowoffline": false,
-    "user": "csc personal"
+    "expirydate": "05-02-2026",
+    "user": "csc personal",
+    "Allowoffline": false
   },
   {
     "device_id": "37ad2bc9a2ec4081",
