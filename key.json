@@ -1655,8 +1655,8 @@
     "device_id": "40b60179a8022e1f",
     "key": "54d9de8wm",
     "expirydate": "11-01-2026",
-    "Allowoffline": false,
-    "user": "dhanajay Yadav"
+    "user": "dhanajay Yadav",
+    "Allowoffline": true
   },
   {
     "device_id": "ea479c7118b01c0f",
