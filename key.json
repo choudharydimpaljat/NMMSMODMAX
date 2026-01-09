@@ -660,9 +660,9 @@
   {
     "device_id": "f99cdc7475e8ef5e",
     "key": "suw662c",
-    "expirydate": "09-01-2026",
-    "Allowoffline": false,
-    "user": "ssk"
+    "expirydate": "24-01-2026",
+    "user": "ssk",
+    "Allowoffline": false
   },
   {
     "device_id": "71b59745c3795e81",
