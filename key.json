@@ -2720,7 +2720,7 @@
     "key": "c3d0957b87",
     "expirydate": "22-01-2026",
     "user": "a raj",
-    "Allowoffline": false
+    "Allowoffline": true
   },
   {
     "device_id": "e9c57da0deb94015",
