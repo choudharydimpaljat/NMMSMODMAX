@@ -2487,9 +2487,9 @@
   {
     "device_id": "7f7d0f5a342fcf47",
     "key": "shh256",
-    "expirydate": "10-01-2026",
-    "Allowoffline": false,
-    "user": "Laxmikant"
+    "expirydate": "09-02-2026",
+    "user": "Laxmikant",
+    "Allowoffline": false
   },
   {
     "device_id": "80a6218e280478f4",
