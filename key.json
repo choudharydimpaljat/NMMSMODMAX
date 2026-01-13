@@ -1570,9 +1570,9 @@
   {
     "device_id": "0ae41c0a5312752e",
     "key": "tqrq44119",
-    "expirydate": "12-01-2026",
-    "Allowoffline": false,
-    "user": "@"
+    "expirydate": "12-02-2026",
+    "user": "@",
+    "Allowoffline": false
   },
   {
     "device_id": "05b5bf3b36a75dbd",
