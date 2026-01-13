@@ -2823,9 +2823,9 @@
   {
     "device_id": "f35e3629d340ec68",
     "key": "91cc2d237ht",
-    "expirydate": "13-01-2026",
-    "Allowoffline": false,
-    "user": "mr singh"
+    "expirydate": "15-01-2026",
+    "user": "mr singh",
+    "Allowoffline": false
   },
   {
     "device_id": "9feed08fee502314",
