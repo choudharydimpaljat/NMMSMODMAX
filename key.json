@@ -2299,8 +2299,8 @@
     "device_id": "bbd35fb5a34d6cbd",
     "key": "a7035e4a3a",
     "expirydate": "13-01-2026",
-    "Allowoffline": false,
-    "user": "Malik"
+    "user": "Malik",
+    "Allowoffline": false
   },
   {
     "device_id": "62eef844",
