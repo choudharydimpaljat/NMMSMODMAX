@@ -3260,5 +3260,12 @@
     "expirydate": "03-01-2026",
     "Allowoffline": false,
     "user": "saraka boy"
+  },
+  {
+    "device_id": "f961149b40efaa12",
+    "key": "...",
+    "expirydate": "16-01-202",
+    "user": "Fogt",
+    "Allowoffline": false
   }
 ]
