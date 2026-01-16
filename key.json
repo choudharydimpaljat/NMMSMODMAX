@@ -2844,9 +2844,9 @@
   {
     "device_id": "53aeea8e1774e088",
     "key": "je637bsjet46",
-    "expirydate": "16-01-2026",
-    "Allowoffline": false,
-    "user": "je"
+    "expirydate": "15-02-2026",
+    "user": "je",
+    "Allowoffline": false
   },
   {
     "device_id": "0947e6012b476c5c",
