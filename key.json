@@ -7,18 +7,18 @@
     "Allowoffline": false
   },
   {
-    "device_id": "6bfd94ac27147587",
-    "key": "662fi90jsYYGST",
-    "expirydate": "13-03-2026",
-    "user": "Bruser",
-    "Allowoffline": false
-  },
-  {
     "device_id": "b7fcd04f7c59af3d",
     "key": "opjat",
     "expirydate": "03-02-2026",
     "user": "OPjat",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6bfd94ac27147587",
+    "key": "662fi90jsYYGST",
+    "expirydate": "13-03-2026",
+    "user": "Bruser",
+    "Allowoffline": false
   },
   {
     "device_id": "debe0ca24e1e9d41",
