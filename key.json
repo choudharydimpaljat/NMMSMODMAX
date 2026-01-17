@@ -1341,7 +1341,7 @@
     "key": "Dr5t00pi8i",
     "expirydate": "09-02-2026",
     "user": "bipin yadav",
-    "Allowoffline": false
+    "Allowoffline": true
   },
   {
     "device_id": "0af744f2df81dc2a",
