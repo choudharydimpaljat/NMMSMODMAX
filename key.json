@@ -1402,9 +1402,9 @@
   {
     "device_id": "5abea3f5b9b77ada",
     "key": "54d9c7eb635e",
-    "expirydate": "01-01-26",
-    "Allowoffline": false,
-    "user": "rohit"
+    "expirydate": "02-02-2026",
+    "user": "rohit",
+    "Allowoffline": false
   },
   {
     "device_id": "fddb0e1d1e350497",
