@@ -395,8 +395,8 @@
     "device_id": "da586b931d328322",
     "key": "577b65tg",
     "expirydate": "26-01-2026",
-    "Allowoffline": false,
-    "user": "dheerendra namdev"
+    "user": "dheerendra namdev",
+    "Allowoffline": false
   },
   {
     "device_id": "11f070b49bc5855f",
