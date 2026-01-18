@@ -3047,9 +3047,9 @@
   {
     "device_id": "26dba379524bf5f0",
     "key": "75977a21fa",
-    "expirydate": "17-01-2026",
-    "Allowoffline": false,
-    "user": "Ajay"
+    "expirydate": "17-02-2026",
+    "user": "Ajay",
+    "Allowoffline": false
   },
   {
     "device_id": "008d3e8ac4f4782b",
