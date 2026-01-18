@@ -11,7 +11,7 @@
     "key": "opjat",
     "expirydate": "03-02-2026",
     "user": "OPjat",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "6bfd94ac27147587",
