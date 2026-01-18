@@ -2930,7 +2930,7 @@
     "key": "onw73c5hgi",
     "expirydate": "17-02-2026",
     "user": "vivek",
-    "Allowoffline": true
+    "Allowoffline": false
   },
   {
     "device_id": "b1b393ae98f90051",
