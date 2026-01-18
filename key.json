@@ -1738,9 +1738,9 @@
   {
     "device_id": "b2ab3bfc4087628c",
     "key": "ndudy7772",
-    "expirydate": "10-01-2026",
-    "Allowoffline": false,
-    "user": "CSC"
+    "expirydate": "25-01-2026",
+    "user": "CSC",
+    "Allowoffline": false
   },
   {
     "device_id": "0d54fadbcf9bedf1",
