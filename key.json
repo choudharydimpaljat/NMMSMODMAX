@@ -1080,9 +1080,9 @@
   {
     "device_id": "5fc0b53e7f309bbc",
     "key": "9sm7bsyb6k9",
-    "expirydate": "17-01-2026",
-    "Allowoffline": false,
-    "user": "sp"
+    "expirydate": "18-02-2026",
+    "user": "sp",
+    "Allowoffline": false
   },
   {
     "device_id": "af4acf5ceb176de1",
