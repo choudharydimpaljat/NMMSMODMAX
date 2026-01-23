@@ -2368,9 +2368,9 @@
   {
     "device_id": "57aa5590502387bc",
     "key": "0101mmmalpe",
-    "expirydate": "02-12-2025",
-    "Allowoffline": false,
-    "user": "satish"
+    "expirydate": "07-02-2026",
+    "user": "satish",
+    "Allowoffline": false
   },
   {
     "device_id": "48b8f072bedbedb7",
