@@ -224,11 +224,11 @@
     "user": "Purn Chandra huika"
   },
   {
-    "Allowoffline": false,
     "device_id": "bc08149ade9dbaf7",
-    "expirydate": "03-02-2026",
     "key": "Aathi77vp0t",
-    "user": "Raj Kumar 23"
+    "expirydate": "03-02-2026",
+    "user": "Raj Kumar 23",
+    "Allowoffline": true
   },
   {
     "Allowoffline": false,
