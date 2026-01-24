@@ -2135,11 +2135,11 @@
     "user": "mr jv raman"
   },
   {
-    "Allowoffline": false,
     "device_id": "39a3052dc968aa51",
-    "expirydate": "24-01-2026",
     "key": "a1l2i3b4aba",
-    "user": "ali baba"
+    "expirydate": "08-02-2026",
+    "user": "ali baba",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
