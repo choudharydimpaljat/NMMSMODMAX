@@ -1064,6 +1064,13 @@
     "user": "barkat pujari "
   },
   {
+    "device_id": "b3f819440634b198",
+    "key": "KQP9EJBWFXG",
+    "expirydate": "23-02-2026",
+    "user": "raj patel",
+    "Allowoffline": false
+  },
+  {
     "Allowoffline": false,
     "device_id": "e367837ada0fab07",
     "expirydate": "20-01-2026",
