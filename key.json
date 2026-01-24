@@ -2982,11 +2982,11 @@
     "user": "Dinesh Meena"
   },
   {
-    "Allowoffline": true,
     "device_id": "da0570b3445308b4",
-    "expirydate": "22-01-2026",
     "key": "c3d0957b87",
-    "user": "a raj"
+    "expirydate": "08-02-2026",
+    "user": "a raj",
+    "Allowoffline": true
   },
   {
     "Allowoffline": false,
