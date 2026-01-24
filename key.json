@@ -1239,6 +1239,13 @@
     "user": "Roushan Kumar"
   },
   {
+    "device_id": "b174952739773feb",
+    "key": "177MISFFEWL",
+    "expirydate": "08-02-2026",
+    "user": "ajit kumar",
+    "Allowoffline": false
+  },
+  {
     "Allowoffline": false,
     "device_id": "1befdba447ea67cd",
     "expirydate": "27-01-2026",
