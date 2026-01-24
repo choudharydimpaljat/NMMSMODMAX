@@ -3150,11 +3150,11 @@
     "user": "chandu sarel"
   },
   {
-    "Allowoffline": false,
     "device_id": "cff625ec54bc8f31",
-    "expirydate": "24-01-2026",
     "key": "36601e26fc",
-    "user": "kantilal"
+    "expirydate": "25-01-2026",
+    "user": "kantilal",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
