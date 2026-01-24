@@ -2555,11 +2555,11 @@
     "user": "karma nayak"
   },
   {
-    "Allowoffline": false,
     "device_id": "cabc79689db977a3",
-    "expirydate": "18-01-2026",
     "key": "09j7h655t3",
-    "user": "karma Nayak"
+    "expirydate": "23-02-2026",
+    "user": "karma Nayak",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
