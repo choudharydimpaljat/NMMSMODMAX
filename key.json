@@ -1176,6 +1176,13 @@
     "user": "sp"
   },
   {
+    "device_id": "2b9e4f5f619c1c9f",
+    "key": "5JPUB4G4QQ6",
+    "expirydate": "23-02-2026",
+    "user": "........",
+    "Allowoffline": false
+  },
+  {
     "Allowoffline": false,
     "device_id": "665e524465a9cad6",
     "expirydate": "22-02-2026",
