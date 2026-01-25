@@ -84,6 +84,13 @@
     "user": "Br user"
   },
   {
+    "device_id": "9b4faa52733d3acd",
+    "key": "NSKKPZUOA1Z6",
+    "expirydate": "09-02-2026",
+    "user": "R p",
+    "Allowoffline": false
+  },
+  {
     "Allowoffline": false,
     "device_id": "3013d64c61222159",
     "expirydate": "16-02-2026",
