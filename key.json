@@ -7,11 +7,11 @@
     "user": "priya ji"
   },
   {
-    "Allowoffline": false,
     "device_id": "b7fcd04f7c59af3d",
-    "expirydate": "03-02-20",
     "key": "opjat",
-    "user": "OPjat"
+    "expirydate": "24-02-2026",
+    "user": "OPjat",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
