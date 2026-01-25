@@ -1358,11 +1358,11 @@
     "user": "golu nai"
   },
   {
-    "Allowoffline": false,
     "device_id": "f89ed9a23f3a59f5",
-    "expirydate": "31-12-2025",
     "key": "83j76he6g",
-    "user": "johnson Pulkit"
+    "expirydate": "24-02-2026",
+    "user": "johnson Pulkit",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
