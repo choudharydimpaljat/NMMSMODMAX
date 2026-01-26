@@ -490,11 +490,11 @@
     "user": "Chittaranjan majki"
   },
   {
-    "Allowoffline": false,
     "device_id": "54664abbfb453649",
-    "expirydate": "25-01-2026",
     "key": "57ge6ibw",
-    "user": "udran bhatra"
+    "expirydate": "25-02-2026",
+    "user": "udran bhatra",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
