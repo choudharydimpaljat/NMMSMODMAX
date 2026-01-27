@@ -3234,11 +3234,11 @@
     "user": "daya shankar"
   },
   {
-    "Allowoffline": false,
     "device_id": "f57f3ff28bb1c467",
-    "expirydate": "19-01-2026",
     "key": "545BP000LO99",
-    "user": "Ajay"
+    "expirydate": "11-02-2026",
+    "user": "Ajay",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
