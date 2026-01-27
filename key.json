@@ -3059,11 +3059,11 @@
     "user": "shokat ali mehar"
   },
   {
-    "Allowoffline": false,
     "device_id": "710ef12c2d443e37",
-    "expirydate": "27-10-2025",
     "key": "460df891b2",
-    "user": "Dinesh Meena"
+    "expirydate": "26-02-2026",
+    "user": "Dinesh Meena",
+    "Allowoffline": false
   },
   {
     "Allowoffline": true,
