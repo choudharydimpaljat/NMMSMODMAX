@@ -2870,11 +2870,11 @@
     "user": "jayveer mavai"
   },
   {
-    "Allowoffline": false,
     "device_id": "6dec70598330fa29",
-    "expirydate": "27-01-2026",
     "key": "9c1752a24e",
-    "user": "sultan mirza"
+    "expirydate": "26-02-2026",
+    "user": "sultan mirza",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
