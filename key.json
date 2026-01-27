@@ -973,11 +973,11 @@
     "user": "rohit"
   },
   {
-    "Allowoffline": false,
     "device_id": "d7fa3b8de1bb7e8c",
-    "expirydate": "27-01-2026",
     "key": "uwb66g9000",
-    "user": "choudhary options wala"
+    "expirydate": "12-02-2026",
+    "user": "choudhary options wala",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
