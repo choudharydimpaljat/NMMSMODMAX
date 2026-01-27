@@ -1407,11 +1407,11 @@
     "user": "Mukesh Chauhan user"
   },
   {
-    "Allowoffline": false,
     "device_id": "a607d5f7e80290ef",
-    "expirydate": "27-01-2026",
     "key": "54deieii87",
-    "user": "golu"
+    "expirydate": "26-02-2026",
+    "user": "golu",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
