@@ -462,11 +462,11 @@
     "user": "raushan Kumar"
   },
   {
-    "Allowoffline": false,
     "device_id": "32e99c49db986e19",
-    "expirydate": "26-01-2026",
     "key": "582827666",
-    "user": "kishor"
+    "expirydate": "11-02-2026",
+    "user": "kishor",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
