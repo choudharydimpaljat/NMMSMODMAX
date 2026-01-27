@@ -434,11 +434,11 @@
     "user": "raushan Kumar"
   },
   {
-    "Allowoffline": false,
     "device_id": "3bc807f29b80fed1",
-    "expirydate": "27-01-2026",
     "key": "58882000556",
-    "user": "rasushan Kumar"
+    "expirydate": "26-02-2026",
+    "user": "rasushan Kumar",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
