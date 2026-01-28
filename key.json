@@ -427,11 +427,11 @@
     "user": "ishawarlal kumawat"
   },
   {
-    "Allowoffline": false,
     "device_id": "bee67a6f2f520161",
-    "expirydate": "28-01-2026",
     "key": "5ieiiej99",
-    "user": ".   "
+    "expirydate": "27-02-2026",
+    "user": "*",
+    "Allowoffline": false
   },
   {
     "Allowoffline": true,
