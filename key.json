@@ -3297,11 +3297,11 @@
     "Allowoffline": false
   },
   {
-    "Allowoffline": false,
     "device_id": "ca969a2498fba087",
-    "expirydate": "27-01-2026",
     "key": "4767e26426",
-    "user": "vivek singh"
+    "expirydate": "27-02-2026",
+    "user": "vivek singh",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
