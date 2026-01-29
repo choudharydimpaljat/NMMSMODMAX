@@ -2618,11 +2618,11 @@
     "user": "siwam misra"
   },
   {
-    "Allowoffline": false,
     "device_id": "d166a7143227c903",
-    "expirydate": "29-01-2026",
     "key": "ff4b63587d",
-    "user": "malik"
+    "expirydate": "13-02-2026",
+    "user": "malik",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
