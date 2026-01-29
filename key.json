@@ -29,6 +29,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "66d39fc8c4a35add",
+    "expirydate": "05-02-2026",
+    "key": "YI906HHXOZVX",
+    "user": "Sanjay Singh rajpoot"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "97b2134561e77e16",
     "expirydate": "13-02-2026",
     "key": "KJBBWLTY8B4P",
@@ -324,7 +331,7 @@
   {
     "Allowoffline": false,
     "device_id": "f78b652674545a13",
-    "expirydate": "18-01-20",
+    "expirydate": "13-02-2026",
     "key": "Ccv8ynk03gf",
     "user": "Ayaj junedakar"
   },
@@ -754,6 +761,20 @@
     "expirydate": "16-02-2026",
     "key": "026ge5v88",
     "user": "dk"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "29974c3ac8ef85ad",
+    "expirydate": "31-01-20",
+    "key": "QBFCE56IB4L",
+    "user": "drx vikash yadav priyanka"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "1218e3781f177abd",
+    "expirydate": "31-01-20",
+    "key": "9ms7b63b7",
+    "user": "drx vikash yadav priyanka"
   },
   {
     "Allowoffline": false,
