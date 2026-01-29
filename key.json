@@ -2625,11 +2625,11 @@
     "Allowoffline": false
   },
   {
-    "Allowoffline": false,
     "device_id": "3ef98dfd959152a8",
-    "expirydate": "29-01-2026",
     "key": "a7035e4a3a",
-    "user": "Malik"
+    "expirydate": "13-02-2026",
+    "user": "Malik",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
