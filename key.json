@@ -141,6 +141,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "7954e675046dc3f1",
+    "expirydate": "01-03-2026",
+    "key": "YQ1XJJ4PCSM8",
+    "user": "R p"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "40271b845125d068",
     "expirydate": "14-02-2026",
     "key": "KQ9S5YADZOND",
@@ -1605,7 +1612,7 @@
   {
     "Allowoffline": false,
     "device_id": "82ba7634f227a6e5",
-    "expirydate": "28-01-2026",
+    "expirydate": "06-02-2026",
     "key": "509k8j7tge",
     "user": "sonu bs"
   },
