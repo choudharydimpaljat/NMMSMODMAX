@@ -1989,6 +1989,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "36a7efbf97ddef2e",
+    "expirydate": "02-03-2026",
+    "key": "12LNO1RGWHUW",
+    "user": "csc"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "c2ccaf0003594b42",
     "expirydate": "19-02-2026",
     "key": "2R0WZIT6WM3",
