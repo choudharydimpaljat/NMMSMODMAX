@@ -1106,6 +1106,13 @@
     "user": "rahul meena"
   },
   {
+    "device_id": "2c5ce20a960d1a1a",
+    "key": "9C0U71MNR7R",
+    "expirydate": "02-02-2026",
+    "user": "Gp Singh modardi",
+    "Allowoffline": false
+  },
+  {
     "Allowoffline": true,
     "device_id": "6e786f05db2059ee",
     "expirydate": "04-02-2026",
