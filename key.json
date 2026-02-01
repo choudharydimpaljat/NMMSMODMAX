@@ -1031,7 +1031,7 @@
   {
     "Allowoffline": false,
     "device_id": "402afbe2e8d459ad",
-    "expirydate": "01-02-2026",
+    "expirydate": "08-02-2026",
     "key": "HYGWKOBSG",
     "user": "Kundan Kumar"
   },
@@ -2870,11 +2870,11 @@
     "user": "karma nayak"
   },
   {
+    "Allowoffline": false,
     "device_id": "53db64cad0aab09b",
-    "key": "57juujjwo",
     "expirydate": "16-02-2026",
-    "user": "Karma Nayak",
-    "Allowoffline": false
+    "key": "57juujjwo",
+    "user": "Karma Nayak"
   },
   {
     "Allowoffline": false,
@@ -3222,7 +3222,7 @@
   {
     "Allowoffline": false,
     "device_id": "b67e8ac462063ee4",
-    "expirydate": "04-12-2025",
+    "expirydate": "16-02-2026",
     "key": "74c335fdf0",
     "user": "Panditji"
   },
