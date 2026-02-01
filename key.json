@@ -548,7 +548,7 @@
   {
     "Allowoffline": false,
     "device_id": "27cbb0374c796b15",
-    "expirydate": "30-01-2026",
+    "expirydate": "03-03-2026",
     "key": "50008wnuuub",
     "user": "raushan Kumar"
   },
@@ -2380,11 +2380,11 @@
     "user": "mahendra Singh soda"
   },
   {
+    "Allowoffline": false,
     "device_id": "c5b7b80e6323f471",
-    "key": "54d92kua72ce",
     "expirydate": "16-02-2026",
-    "user": "ugam sigh",
-    "Allowoffline": false
+    "key": "54d92kua72ce",
+    "user": "ugam sigh"
   },
   {
     "Allowoffline": false,
