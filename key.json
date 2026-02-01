@@ -224,11 +224,11 @@
     "user": "Aldad mehar"
   },
   {
-    "Allowoffline": false,
     "device_id": "d2b80abdcbfe6bdb",
-    "expirydate": "01-02-2026",
     "key": "Anishamehar",
-    "user": "Aldad mehar"
+    "expirydate": "16-02-2026",
+    "user": "Aldad mehar",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
