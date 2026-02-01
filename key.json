@@ -1106,11 +1106,11 @@
     "user": "rahul meena"
   },
   {
+    "Allowoffline": false,
     "device_id": "2c5ce20a960d1a1a",
-    "key": "2OYSBR7PE1C",
     "expirydate": "02-02-2026",
-    "user": "Gp Singh modardi",
-    "Allowoffline": false
+    "key": "2OYSBR7PE1C",
+    "user": "Gp Singh modardi"
   },
   {
     "Allowoffline": true,
@@ -1983,7 +1983,7 @@
   {
     "Allowoffline": false,
     "device_id": "de4d8d60ea6deb14",
-    "expirydate": "09-01-2026",
+    "expirydate": "16-02-2026",
     "key": "5jdjd774ghe",
     "user": "keshar dass"
   },
