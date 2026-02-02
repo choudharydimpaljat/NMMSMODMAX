@@ -29,6 +29,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "32d67116366fd76a",
+    "expirydate": "17-02-2026",
+    "key": "EVB4LX080V58",
+    "user": "Ritesh"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "5bcaf4764728f808",
     "expirydate": "17-02-2026",
     "key": "Mohd rafi",
@@ -793,7 +800,7 @@
   {
     "Allowoffline": false,
     "device_id": "cf2b8ab1c693e96c",
-    "expirydate": "02-02-2026",
+    "expirydate": "04-03-2026",
     "key": "8n7h66552",
     "user": "a j"
   },
