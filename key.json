@@ -1372,11 +1372,11 @@
     "user": "........"
   },
   {
-    "Allowoffline": false,
     "device_id": "97c90433b9b6296f",
-    "expirydate": "15-01-2026",
     "key": "7usbh6vt",
-    "user": "aladad mehar"
+    "expirydate": "17-02-2026",
+    "user": "aladad mehar",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
