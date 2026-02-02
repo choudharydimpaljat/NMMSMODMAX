@@ -1352,6 +1352,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "1c6bc0ffcce5d215",
+    "expirydate": "17-02-2026",
+    "key": "P8NP5O19B9M8",
+    "user": "........"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "2b9e4f5f619c1c9f",
     "expirydate": "23-02-2026",
     "key": "5JPUB4G4QQ6",
