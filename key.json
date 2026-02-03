@@ -29,6 +29,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "ed33cdb3ef862b5e",
+    "expirydate": "18-02-2026",
+    "key": "77CEAIXOP12A",
+    "user": "Ajay Mishra"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "32d67116366fd76a",
     "expirydate": "17-02-2026",
     "key": "EVB4LX080V58",
@@ -1717,7 +1724,7 @@
   {
     "Allowoffline": false,
     "device_id": "0af744f2df81dc2a",
-    "expirydate": "25-01-2026",
+    "expirydate": "05-03-2026",
     "key": "54d97u655",
     "user": "bipin yadav"
   },
