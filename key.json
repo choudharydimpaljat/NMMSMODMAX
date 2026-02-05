@@ -7,11 +7,11 @@
     "user": "priya ji"
   },
   {
-    "Allowoffline": true,
+    "Allowoffline": false,
     "device_id": "b7fcd04f7c59af3d",
-    "expirydate": "24-02-2026",
+    "expirydate": "20-02-2026",
     "key": "opjat",
-    "user": "OPjat"
+    "user": "op"
   },
   {
     "Allowoffline": false,
@@ -1640,7 +1640,7 @@
   {
     "Allowoffline": false,
     "device_id": "ca9210860b161ac9",
-    "expirydate": "05-02-2026",
+    "expirydate": "19-02-2026",
     "key": "54d9eue66667",
     "user": "back bencher"
   },
@@ -3680,13 +3680,6 @@
     "expirydate": "03-01-206",
     "key": "53638sbfs6wjop",
     "user": "karan singh"
-  },
-  {
-    "Allowoffline": false,
-    "device_id": "63b8977677250d96",
-    "expirydate": "03-02-2026",
-    "key": "opjat",
-    "user": "op"
   },
   {
     "Allowoffline": false,
