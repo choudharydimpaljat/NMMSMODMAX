@@ -3388,11 +3388,11 @@
     "user": "satadal mandal"
   },
   {
-    "Allowoffline": false,
     "device_id": "f5ec7d13e8c04a00",
-    "expirydate": "05-02-2026",
     "key": "9b5b0ce228",
-    "user": "satadal mandal"
+    "expirydate": "20-02-2026",
+    "user": "satadal mandal",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
