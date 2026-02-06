@@ -2912,11 +2912,11 @@
     "user": "karma nayk"
   },
   {
-    "Allowoffline": false,
     "device_id": "ab14ff5bbf76c631",
-    "expirydate": "26-01-2026",
     "key": "5455t4432",
-    "user": "karma nayk"
+    "expirydate": "21-02-2026",
+    "user": "karma nayk",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
