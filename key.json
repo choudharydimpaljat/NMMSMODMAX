@@ -2135,11 +2135,11 @@
     "user": "CSC FREE"
   },
   {
-    "Allowoffline": false,
     "device_id": "61b619745c88678c",
-    "expirydate": "06-02-2026",
     "key": "548i7u7u7",
-    "user": "csc"
+    "expirydate": "13-02-2026",
+    "user": "csc",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
