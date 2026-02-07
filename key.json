@@ -3381,11 +3381,11 @@
     "user": "bakil singh"
   },
   {
-    "Allowoffline": false,
     "device_id": "d2043843ac2a38ca",
-    "expirydate": "06-02-2026",
     "key": "c088ceeff5",
-    "user": "RP SINGH SISODIYA"
+    "expirydate": "22-02-2026",
+    "user": "RP SINGH SISODIYA",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
