@@ -343,6 +343,13 @@
     "user": "Subham Singh"
   },
   {
+    "Allowoffline": false,
+    "device_id": "f5a6e572ff9e3942",
+    "expirydate": "23-02-2026",
+    "key": "9IIDJ02LISHW",
+    "user": "Lucky choudhary"
+  },
+  {
     "Allowoffline": true,
     "device_id": "0f04a616b188f584",
     "expirydate": "11-02-2026",
@@ -380,7 +387,7 @@
   {
     "Allowoffline": false,
     "device_id": "bef5590be231eebd",
-    "expirydate": "07-02-2026",
+    "expirydate": "22-02-2026",
     "key": "UGETYW9JSG6",
     "user": "Mahakal army"
   },
@@ -527,7 +534,7 @@
   {
     "Allowoffline": false,
     "device_id": "6509cd49823136c2",
-    "expirydate": "08-02-2026",
+    "expirydate": "18-02-2026",
     "key": "5557DBIUGF",
     "user": "VISHAL LODHI"
   },
@@ -1034,6 +1041,13 @@
     "expirydate": "22-02-2026",
     "key": "3j7608j7e",
     "user": "Jagadeesha cm"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "3cb07ab16967ec3a",
+    "expirydate": "22-02-2026",
+    "key": "J8CL5F3ETQL1",
+    "user": "Ad ya vishal yadaw"
   },
   {
     "Allowoffline": false,
@@ -1787,7 +1801,7 @@
   {
     "Allowoffline": false,
     "device_id": "383faaa21d56dabc",
-    "expirydate": "08-02-2026",
+    "expirydate": "23-02-2026",
     "key": "58887n7uj00",
     "user": "raja"
   },
@@ -2177,11 +2191,11 @@
     "user": "CSC"
   },
   {
+    "Allowoffline": false,
     "device_id": "1357b5a07ce3cf54",
-    "key": "8nt679h6r3",
     "expirydate": "10-03-2026",
-    "user": "csc personal",
-    "Allowoffline": false
+    "key": "8nt679h6r3",
+    "user": "csc personal"
   },
   {
     "Allowoffline": false,
@@ -3381,11 +3395,11 @@
     "user": "bakil singh"
   },
   {
+    "Allowoffline": false,
     "device_id": "d2043843ac2a38ca",
-    "key": "c088ceeff5",
     "expirydate": "22-02-2026",
-    "user": "RP SINGH SISODIYA",
-    "Allowoffline": false
+    "key": "c088ceeff5",
+    "user": "RP SINGH SISODIYA"
   },
   {
     "Allowoffline": false,
@@ -3778,5 +3792,12 @@
     "expirydate": "16-01-202",
     "key": "...",
     "user": "Fogt"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "3hee",
+    "expirydate": "14-02-2026",
+    "key": "BDSPDS0QXFOA",
+    "user": "Sheh"
   }
 ]
