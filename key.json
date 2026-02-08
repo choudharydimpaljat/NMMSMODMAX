@@ -2177,11 +2177,11 @@
     "user": "CSC"
   },
   {
-    "Allowoffline": false,
     "device_id": "1357b5a07ce3cf54",
-    "expirydate": "05-02-2026",
     "key": "8nt679h6r3",
-    "user": "csc personal"
+    "expirydate": "10-03-2026",
+    "user": "csc personal",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
