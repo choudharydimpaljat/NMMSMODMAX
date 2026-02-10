@@ -2289,11 +2289,11 @@
     "user": "mohd salman"
   },
   {
-    "Allowoffline": true,
     "device_id": "40b60179a8022e1f",
-    "expirydate": "11-02-2026",
     "key": "54d9de8wm",
-    "user": "dhanajay Yadav"
+    "expirydate": "13-03-2026",
+    "user": "dhanajay Yadav",
+    "Allowoffline": true
   },
   {
     "Allowoffline": false,
