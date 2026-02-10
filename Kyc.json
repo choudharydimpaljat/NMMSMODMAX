@@ -2968,11 +2968,11 @@
     "user": "Karma nayk"
   },
   {
-    "Allowoffline": false,
     "device_id": "6fe1bf3c7c3d810e",
-    "expirydate": "28-01-2026",
     "key": "77766hh6",
-    "user": "karma nayk"
+    "expirydate": "25-02-2026",
+    "user": "karma nayk",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
