@@ -2968,11 +2968,11 @@
     "user": "karma nayk"
   },
   {
-    "Allowoffline": false,
     "device_id": "3787114aa0517a0e",
-    "expirydate": "11-12-2025",
     "key": "qpqpamdb",
-    "user": "karma nayk"
+    "expirydate": "25-02-2026",
+    "user": "karma nayk",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
