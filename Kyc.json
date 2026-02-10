@@ -29,10 +29,10 @@
   },
   {
     "Allowoffline": false,
-    "device_id": "042fa3a0d9adb5ad",
+    "device_id": "ccdcecd4adaad928",
     "expirydate": "25-02-2026",
-    "key": "T0HS6A1SVGZP",
-    "user": "Ajeet Kumar"
+    "key": "RPNLTJ8E4BZO",
+    "user": "Kiran chetty"
   },
   {
     "Allowoffline": false,
@@ -733,6 +733,13 @@
     "expirydate": "26-02-2026",
     "key": "577b65tg",
     "user": "dheerendra namdev"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "17c2fa55a5db1ef2",
+    "expirydate": "12-03-2026",
+    "key": "7HP3BO5FE8R8",
+    "user": "R y"
   },
   {
     "Allowoffline": false,
@@ -2968,11 +2975,11 @@
     "user": "Karma nayk"
   },
   {
+    "Allowoffline": false,
     "device_id": "6fe1bf3c7c3d810e",
-    "key": "77766hh6",
     "expirydate": "25-02-2026",
-    "user": "karma nayk",
-    "Allowoffline": false
+    "key": "77766hh6",
+    "user": "karma nayk"
   },
   {
     "Allowoffline": false,
