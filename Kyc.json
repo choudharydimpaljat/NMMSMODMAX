@@ -294,11 +294,11 @@
     "user": "R p"
   },
   {
-    "Allowoffline": false,
     "device_id": "9b4faa52733d3acd",
-    "expirydate": "09-02-2026",
     "key": "NSKKPZUOA1Z6",
-    "user": "R p"
+    "expirydate": "25-02-2026",
+    "user": "R p",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
