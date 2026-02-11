@@ -29,6 +29,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "74d3281844d63115",
+    "expirydate": "26-02-2026",
+    "key": "6QBTVO1L7AWD",
+    "user": "Jyoti  gurjar"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "ccdcecd4adaad928",
     "expirydate": "25-02-2026",
     "key": "RPNLTJ8E4BZO",
@@ -296,7 +303,7 @@
   {
     "Allowoffline": false,
     "device_id": "13e10376e0c4b762",
-    "expirydate": "11-02-2026",
+    "expirydate": "26-02-2026",
     "key": "YC0UT9N8J5ZGU",
     "user": "R p"
   },
