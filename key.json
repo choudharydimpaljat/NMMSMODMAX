@@ -29,6 +29,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "d98f1683b904a6ff",
+    "expirydate": "27-02-2026",
+    "key": "OWYBB0326G99",
+    "user": "Shahab yadav"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "6bfd94ac27147587",
     "expirydate": "13-03-2026",
     "key": "662fi90jsYYGST",
@@ -2858,7 +2865,7 @@
   {
     "Allowoffline": false,
     "device_id": "7e12d4015d82edec",
-    "expirydate": "12-02-2026",
+    "expirydate": "27-02-2026",
     "key": "58976f5d9a",
     "user": "siwam misra"
   },
