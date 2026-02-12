@@ -22,10 +22,31 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "cd09fb6c30ffa77e",
+    "expirydate": "27-02-2026",
+    "key": "E68QYVVFXLTN",
+    "user": "Nmms"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "6bfd94ac27147587",
     "expirydate": "13-03-2026",
     "key": "662fi90jsYYGST",
     "user": "Bruser"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "5f043c329ea2d576",
+    "expirydate": "27-02-2026",
+    "key": "YL5U0XAR9092",
+    "user": "Krish Kumar"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "efcdee23c72ccf50",
+    "expirydate": "27-02-2026",
+    "key": "Z9MB256SXRV1",
+    "user": "Govind rajbhar"
   },
   {
     "Allowoffline": false,
@@ -113,13 +134,6 @@
   },
   {
     "Allowoffline": false,
-    "device_id": "e6606221fad19d92",
-    "expirydate": "04-03-2026",
-    "key": "D589ZM4ORTCC",
-    "user": "Krish singh"
-  },
-  {
-    "Allowoffline": false,
     "device_id": "d8fe0968b5288c23",
     "expirydate": "03-03-2026",
     "key": "ZU8ZS1HH5Z91",
@@ -138,6 +152,13 @@
     "expirydate": "17-02-2026",
     "key": "D80GA6666",
     "user": "Narendra Singh"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "5940fa17f332c5f7",
+    "expirydate": "27-02-2026",
+    "key": "V2JLXAHZ7MYN",
+    "user": "Pragnesh"
   },
   {
     "Allowoffline": false,
@@ -789,13 +810,6 @@
     "expirydate": "03-03-2026",
     "key": "EVY6IK2XRR",
     "user": "R y"
-  },
-  {
-    "Allowoffline": false,
-    "device_id": "7741157ce3f807f9",
-    "expirydate": "23-02-2026",
-    "key": "5fyu75h999",
-    "user": "r y"
   },
   {
     "Allowoffline": false,
@@ -1836,7 +1850,7 @@
   {
     "Allowoffline": false,
     "device_id": "9b12e0f351d913ac",
-    "expirydate": "12-02-2026",
+    "expirydate": "14-03-2026",
     "key": "LY2630OIFCK9",
     "user": "raja"
   },
@@ -2228,7 +2242,7 @@
   {
     "Allowoffline": false,
     "device_id": "0f25678ecc31a2ed",
-    "expirydate": "16-01-2026",
+    "expirydate": "26-02-2026",
     "key": "54kdiruu",
     "user": "csc"
   },
@@ -2291,7 +2305,7 @@
   {
     "Allowoffline": false,
     "device_id": "0a7dff0ebf2aea66",
-    "expirydate": "10-01-2026",
+    "expirydate": "19-02-2026",
     "key": "9wje74g65",
     "user": "babula beniya"
   },
@@ -3284,8 +3298,8 @@
   },
   {
     "Allowoffline": false,
-    "device_id": "951c24b80d86cf33",
-    "expirydate": "04-02-2026",
+    "device_id": "cdfe97fa5881a78c",
+    "expirydate": "26-02-2026",
     "key": "3c14c54129",
     "user": "Balwinr singh"
   },
@@ -3439,7 +3453,7 @@
   {
     "Allowoffline": false,
     "device_id": "5c6670da3badd2ef",
-    "expirydate": "18-02-2026",
+    "expirydate": "18-02-20",
     "key": "onw73c5hgi",
     "user": "vivek"
   },
@@ -3470,6 +3484,13 @@
     "expirydate": "20-12-2025",
     "key": "d22b22036a",
     "user": "mehardeen"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "f6e4ca6ad2e980cd",
+    "expirydate": "27-02-2026",
+    "key": "NJGL52ZRQK4C",
+    "user": "satadal mandal"
   },
   {
     "Allowoffline": false,
