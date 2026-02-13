@@ -36,6 +36,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "5274350c24672007",
+    "expirydate": "15-03-2026",
+    "key": "V55Y3GSZ7WJJ",
+    "user": "Sandeep kushwah"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "e1415ec6a3fbb7fb",
     "expirydate": "27-02-2026",
     "key": "ERWI2EE7SJ76",
@@ -58,7 +65,7 @@
   {
     "Allowoffline": false,
     "device_id": "5f043c329ea2d576",
-    "expirydate": "27-02-20",
+    "expirydate": "27-02-2026",
     "key": "YL5U0XAR9092",
     "user": "Krish Kumar"
   },
@@ -926,7 +933,7 @@
   {
     "Allowoffline": false,
     "device_id": "354c4e00c4e160f6",
-    "expirydate": "13-02-2026",
+    "expirydate": "15-03-2026",
     "key": "e5ec656d06",
     "user": "AJ"
   },
