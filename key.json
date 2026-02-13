@@ -29,6 +29,20 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "d939cc9f4d9a57a4",
+    "expirydate": "27-02-2026",
+    "key": "2CW9RWZ7A1CY",
+    "user": "Lokesh roshan"
+  },
+  {
+    "Allowoffline": false,
+    "device_id": "e1415ec6a3fbb7fb",
+    "expirydate": "27-02-2026",
+    "key": "ERWI2EE7SJ76",
+    "user": "Amit khan"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "d98f1683b904a6ff",
     "expirydate": "27-02-2026",
     "key": "OWYBB0326G99",
@@ -3537,7 +3551,7 @@
   {
     "Allowoffline": false,
     "device_id": "57a4cc3554ef7ac7",
-    "expirydate": "08-02-2026",
+    "expirydate": "28-02-2026",
     "key": "p01wkdj",
     "user": "arun benia"
   },
