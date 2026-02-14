@@ -476,11 +476,11 @@
     "user": "Rahul pal"
   },
   {
+    "Allowoffline": true,
     "device_id": "fd53032eb85293cd",
-    "key": "AAWWRVY66",
     "expirydate": "01-03-2026",
-    "user": "Bovendra singh",
-    "Allowoffline": true
+    "key": "AAWWRVY66",
+    "user": "Bovendra singh"
   },
   {
     "Allowoffline": false,
@@ -1877,6 +1877,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "531a87d30d8707f7",
+    "expirydate": "01-03-2026",
+    "key": "XCOJTV0Q4CFT",
+    "user": "Raja"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "0a11ec4c22ff1db4",
     "expirydate": "15-02-2026",
     "key": "CRIF375HICGY",
@@ -2800,11 +2807,11 @@
     "user": "satish"
   },
   {
+    "Allowoffline": false,
     "device_id": "d4f9c50b3a878ca5",
-    "key": "5es2g5ce",
     "expirydate": "01-03-2026",
-    "user": "satish",
-    "Allowoffline": false
+    "key": "5es2g5ce",
+    "user": "satish"
   },
   {
     "Allowoffline": false,
