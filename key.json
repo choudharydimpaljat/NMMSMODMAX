@@ -2982,11 +2982,11 @@
     "user": "Karma nayak"
   },
   {
-    "Allowoffline": false,
     "device_id": "5efe85e40fcfebee",
-    "expirydate": "14-02-2026",
     "key": "Z9RP8RJOKXGS",
-    "user": "Karma nayak"
+    "expirydate": "01-03-2026",
+    "user": "Karma nayak",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
