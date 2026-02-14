@@ -36,6 +36,13 @@
   },
   {
     "Allowoffline": false,
+    "device_id": "bfe3b40ac635dab4",
+    "expirydate": "28-02-2026",
+    "key": "W6G2ZM6A43XB",
+    "user": "Arun Kumar"
+  },
+  {
+    "Allowoffline": false,
     "device_id": "5274350c24672007",
     "expirydate": "15-03-2026",
     "key": "V55Y3GSZ7WJJ",
@@ -226,7 +233,7 @@
   {
     "Allowoffline": false,
     "device_id": "5b8bba273fadfe31",
-    "expirydate": "12-02-2026",
+    "expirydate": "01-03-2026",
     "key": "SWE3T1HEG47",
     "user": "Alsher kumar"
   },
