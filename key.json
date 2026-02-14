@@ -476,11 +476,11 @@
     "user": "Rahul pal"
   },
   {
-    "Allowoffline": true,
     "device_id": "fd53032eb85293cd",
-    "expirydate": "14-02-2026",
     "key": "AAWWRVY66",
-    "user": "Bovendra singh"
+    "expirydate": "01-03-2026",
+    "user": "Bovendra singh",
+    "Allowoffline": true
   },
   {
     "Allowoffline": false,
