@@ -973,11 +973,11 @@
     "user": "Vikram Gurjar"
   },
   {
-    "Allowoffline": false,
     "device_id": "4c8589dce9e94696",
-    "expirydate": "17-01-2026",
     "key": "Nizam Ali",
-    "user": "Shaikh shakir ali"
+    "expirydate": "01-03-2026",
+    "user": "Shaikh shakir ali",
+    "Allowoffline": false
   },
   {
     "Allowoffline": false,
